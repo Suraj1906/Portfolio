@@ -4,7 +4,7 @@ const ProjectsText = () => {
       <h2 className="text-6xl text-cyan mb-10">Projects</h2>
       <p className="text-lg text-center">
         I have worked on a variety of web development projects, ranging from
-        responsive websites for small businesses to full-stack applications and
+        responsive websites  and
         complex front-end interfaces.
       </p>
     </div>

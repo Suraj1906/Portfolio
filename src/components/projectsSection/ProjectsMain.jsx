@@ -5,32 +5,32 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
+    name: "Code Editor",
     year: "Mar2022",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
-    link: "#",
+    image: "/images/Code.PNG",
+    link: "https://code-editor-tool.netlify.app/",
   },
   {
-    name: "Moola App",
+    name: "Food Ordering App",
     year: "Sept2022",
     align: "left",
-    image: "../../public/images/website-img-2.webp",
-    link: "#",
+    image: "/images/food.PNG",
+    link: "https://flavoro-food-service.netlify.app/",
   },
   {
-    name: "Tourzania",
+    name: "Portfolio",
     year: "Jan2023",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: "/images/Port.PNG",
     link: "#",
   },
   {
-    name: "Bank of Luck",
+    name: "Weather App",
     year: "May2024",
     align: "left",
-    image: "../../public/images/website-img-4.jpg",
-    link: "#",
+    image: "/images/Weather.PNG",
+    link: "https://weather-forecast-teller.netlify.app/",
   },
 ];
 
@@ -54,6 +54,8 @@ const ProjectsMain = () => {
               year={project.year}
               align={project.align}
               image={project.image}
+              link={project.link}
+              
             />
           );
         })}

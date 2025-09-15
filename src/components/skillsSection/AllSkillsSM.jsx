@@ -8,6 +8,7 @@ import { SiNextdotjs } from "react-icons/si";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import { FaGithub } from "react-icons/fa6";
 
 const skills = [
   {
@@ -23,8 +24,8 @@ const skills = [
     icon: IoLogoJavascript,
   },
   {
-    skill: "TypeScript",
-    icon: SiTypescript,
+    skill: "Github",
+    icon: FaGithub,
   },
   {
     skill: "ReactJS",
@@ -34,10 +35,7 @@ const skills = [
     skill: "Redux",
     icon: SiRedux,
   },
-  {
-    skill: "NextJS",
-    icon: SiNextdotjs,
-  },
+  
   {
     skill: "TailwindCSS",
     icon: RiTailwindCssFill,
