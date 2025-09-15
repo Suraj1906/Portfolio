@@ -11,10 +11,8 @@ It highlights my skills, projects, and achievements as a **Frontend Developer**,
 - 🎨 **Modern UI** – Built with Tailwind CSS for a clean and minimal look.  
 - 🎬 **Smooth Animations** – Integrated **Framer Motion** for page transitions, hover effects, and interactive elements.  
 - 🚀 **Performance Optimized** – Fast load times and smooth navigation.  
-- 📂 **Projects Showcase** – Display of my key projects with links.  
-- 📜 **Resume Section** – Easy access to my CV.  
+- 📂 **Projects Showcase** – Display of my key projects with links.   
 - 📬 **Contact Form** – Reach out directly.  
-- 🌙 **Dark/Light Mode Toggle**.  
 - 🔗 **Deployed with Netlify** – Accessible via public URL.  
 
 ---
@@ -56,15 +54,18 @@ npm run dev
 
 🔗 Live Demo
 
-🌍 View Live Portfolio
+🌍 [View Live Portfolio](https://suraj-bhardwaj.netlify.app/)
+
 
 📬 Contact
 
 Name: Suraj Bhardwaj
 
-GitHub: Suraj1906
+GitHub: [Suraj1906](https://github.com/Suraj1906)
 
-LinkedIn: Suraj Bhardwaj
+
+LinkedIn: [Suraj Bhardwaj](https://www.linkedin.com/in/suraj-bhardwaj-620873217)
+
 
 📄 License
 
